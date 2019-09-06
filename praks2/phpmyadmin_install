@@ -5,3 +5,4 @@
 #
 
 apt -qy install phpmyadmin
+service phpmyadmin status
