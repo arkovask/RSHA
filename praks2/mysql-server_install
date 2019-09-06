@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#Skript mysql-serveri installimiseks
+
+#
+
+DEBIAN_FRONTEND=noninteractive apt -qy install mysql-server mysql-client

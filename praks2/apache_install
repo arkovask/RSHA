@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#
+#Skript apache installimiseks
+#
+
+apt -qy install apache2 apache2-doc libexpat1 ssl-cert

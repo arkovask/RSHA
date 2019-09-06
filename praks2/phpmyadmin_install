@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#Skript phpmyadmin installimiseks
+
+#
+
+apt -qy install phpmyadmin
